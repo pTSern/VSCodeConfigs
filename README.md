@@ -8,7 +8,6 @@ Description: The configuration for the VSCode.
 ## Extension
 1. <details><summary> VIM </summary>
   <p>
-    
     <details><summary>Why vim?</summary>
     <p>
         
