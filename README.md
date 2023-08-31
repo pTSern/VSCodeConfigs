@@ -1,4 +1,5 @@
 <p align="center"><strong>VSCode Configuration</strong></p>
+
 The configuration for the [Visual Studio Code](https://code.visualstudio.com/).
 
 - Using this configuration helps you to read my code more easily.
