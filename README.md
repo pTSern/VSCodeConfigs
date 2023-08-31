@@ -1,5 +1,5 @@
-# VSCode Configuration
-Description: The configuration for the VSCode. 
+<p align="center"><strong>VSCode Configuration</strong></p>
+The configuration for the VSCode. 
 
 ## Table of contents
 - [Extension](#Extension)
@@ -8,7 +8,7 @@ Description: The configuration for the VSCode.
 ## Extension
 - <details><summary> VIM </summary>
   <p>
-    <h2 align="center"><img src="icons/vim.png" height="128"><br>VSCodeVIm</h2>
+    <h2 align="center"><img src="icons/vim.png" height="128"><br>VSCodeVim</h2>
 
     - Why vim?
         - Vim helps you code faster and do a lot of things without using the mouse.
