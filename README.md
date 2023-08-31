@@ -6,7 +6,9 @@ Description: The configuration for the VSCode.
 - [Install](#Install)
 
 ## Extension
-- ### VIM
+- <details><summary>***VIM***</summary>
+  <p>
+    
     <details><summary>Why vim?</summary>
     <p>
         
@@ -81,6 +83,7 @@ Description: The configuration for the VSCode.
         },
     </p>
     </details>
-
+  </p>
+  </details>
 ## Install
 - 
