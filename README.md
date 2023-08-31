@@ -9,14 +9,18 @@ Description: The configuration for the VSCode.
 - ### VIM
     <details><summary>Why vim?</summary>
     <p>
+        
         - Vim helps you code faster and do a lot of things without using the mouse.
+  
     </p>
     </details>
 
     <details><summary>Installation</summary>
     <p>
+        
         - [Market Link](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
         - [GitHub](https://github.com/VSCodeVim/Vim)
+  
     </p>
     </details>
 
