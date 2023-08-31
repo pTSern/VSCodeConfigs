@@ -22,6 +22,7 @@ Description: The configuration for the VSCode.
 
     <details><summary>My Vim settings</summary>
     <p>
+        
         "vim.statusBarColorControl": true,
         "vim.statusBarColors.normal": "#181818",
         "vim.statusBarColors.insert": "#181818",
