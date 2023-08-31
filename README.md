@@ -6,8 +6,8 @@ Description: The configuration for the VSCode.
 - [Install](#Install)
 
 ## Extension
--<details><summary> VIM </summary>
-<p>
+- <details><summary> VIM </summary>
+  <p>
     <h2 align="center"><img src="icons/vim.png" height="128"><br>VSCodeVIm</h2>
 
     - Why vim?
