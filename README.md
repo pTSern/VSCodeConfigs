@@ -8,16 +8,19 @@ Description: The configuration for the VSCode.
 ## Extension
 - <details><summary> VIM </summary>
   <p>
+    <div align="center">
+        <img src="icons/vim.png" alt="ContactCard">
+    </div>
        <details><summary>Why vim?</summary>
        <p>
-           
+
      - Vim helps you code faster and do a lot of things without using the mouse.
        </p>
        </details>
 
        <details><summary>Installation</summary>
        <p>
-           
+
        - [Market Link](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
        - [GitHub](https://github.com/VSCodeVim/Vim)
        </p>
@@ -25,7 +28,7 @@ Description: The configuration for the VSCode.
 
        <details><summary>My Vim settings</summary>
        <p>
-           
+
            "vim.statusBarColorControl": true,
            "vim.statusBarColors.normal": "#181818",
            "vim.statusBarColors.insert": "#181818",
